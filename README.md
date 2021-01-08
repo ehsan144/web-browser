@@ -1,3 +1,3 @@
 # Web-Browser
 
-a simpl Web Browser By PyQt5 
+ Web Browser By PyQt5 
