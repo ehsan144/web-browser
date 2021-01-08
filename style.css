@@ -1,0 +1,39 @@
+QPushButton {
+
+    border : none;
+    background : transparent;
+    padding : 10px
+}
+QTabBar {
+
+}
+QTabBar::tab {
+    background : transparent;
+    border : none;
+    padding : 10px;
+    font-size : 16px;
+    color : #999999;
+    border-right : 1px solid #dddddd
+}
+QTabBar::tab::selected {
+    background : #ffffff;
+    color : #333333;
+}
+
+QTabBar::tab::first-child {
+    border-left:1px solid #dddddd;
+}
+
+#Toolbar{
+    background  : #ffffff;
+    border : none;
+    border-bottom : 2px solid #dddddd
+}
+QLineEdit {
+    background: rgba(0,0,0,.05);
+    padding:10px;
+    border-radius:3px;
+    font-size:14px;
+    color:#666;
+
+}
